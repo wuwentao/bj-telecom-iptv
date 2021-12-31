@@ -4,7 +4,7 @@ Beijing Telecom IPTV m3u playlist
 
 # 节目源文件说明： 
 
-- 只需要下载[bj-telecom-iptv.m3u](https://github.com/wuwentao/bj-telecom-iptv/blob/master/bj_telecom_iptv.m3u)文件即可使用，播放器打开该文件既可自动导入所有频道信息
+- 只需要下载[bj-telecom-iptv.m3u](https://github.com/wuwentao/bj-telecom-iptv/blob/master/bj-telecom-iptv.m3u)文件即可使用，播放器打开该文件既可自动导入所有频道信息
 
 
 # 节目源更新、修改、维护：
